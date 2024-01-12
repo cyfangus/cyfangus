@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏛️ I'm currently a PhD candidate at UCL security and crime science.<br>📊 I'm interested in data analytics and visualisation, especially in the domain of criminology.<br>💻 I'm new to data science and currently learning to use different tools and codes.
+🏛️ I'm currently a PhD candidate at UCL security and crime science.<br>📊 I'm interested in data analytics and visualisation, especially in the domain of criminology.<br>💻 I'm new to data science and currently learning to use different tools and codes. <br> 🤖 My hobbies: 🏑 ⚽ 🏃‍♂️ 📚 🎹
 
 
 ## 🌐 Socials:
