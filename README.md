@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏛️ I have recently completed my PhD at the UCL security and crime science.<br>📊 I'm interested in applying data science and machine learning expertise to solve different challenges in real-life, particularly in the public and social sector. #DataForPuiblicGood <br> 🤖 My hobbies: 🏑 ⚽ 🏃‍♂️ 📚 🎹
+🏛️ I have recently completed my PhD at the UCL security and crime science.<br>📊 I'm eager to apply my data science and domain expertise in commerical setting, particularly in the fraud detection and financial crime prevention. <br> 🤖 My hobbies: 🏑 ⚽ 🏃‍♂️ 📚 🎹
 
 
 ## 🌐 Socials:
